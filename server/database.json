@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "title 1 EDITED",
+      "body": "body 1"
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "body": "body 2"
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "body": "body 3"
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "body": "body 4 EDITED"
+    },
+    {
+      "id": 6,
+      "title": "title 6",
+      "body": "body 6"
+    },
+    {
+      "title": "title 8",
+      "body": "body 8",
+      "id": 8
+    },
+    {
+      "title": "title 9",
+      "body": "body 9",
+      "id": 9
+    }
+  ]
+}
